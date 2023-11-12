@@ -57,4 +57,5 @@ while loop:
     if user_input != "quit" and user_input != "clear" and user_input != "run" and user_input != "print" and user_input != "help" and user_input != "new file" and user_input != "change file" and user_input != "delete file":
         file.write(user_input)
         file.write("\n")
+        
     
